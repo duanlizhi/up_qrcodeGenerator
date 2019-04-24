@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QR Code</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_string">Input content&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="merchant_id">Merchant Account Information ID</string>
+    <string name="Polymerization_code">polymerization code option</string>
+    <string name="static_QR_Codes">static QR Codes</string>
+    <string name="dynamic_QR_Codes">" dynamic QR Codes"</string>
+    <string name="transaction_amount">Transaction Amount(optional)</string>
+    <string name="merchant_name">Merchant Name(up to 41)</string>
+    <string name="merchant_city">Merchant City(up to 15)</string>
+    <string name="postal_code">Postal Code(optional)</string>
+    <string name="value_convenience">Value of Fee</string>
+    <string name="percentage">Percentage(%)</string>
+    <string name="additional_data">Additional Data Objects(optional)</string>
+    <string name="bill_number">Bill Number</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="store_label">"Store Label "</string>
+    <string name="loyalty_number">Loyalty Number</string>
+    <string name="reference_label">Reference Label</string>
+    <string name="customer_label">Customer Label</string>
+    <string name="terminal_label">Terminal Label</string>
+    <string name="purpose_transaction">"Purpose of Transaction "</string>
+    <string name="consumer_address">Consumer Address</string>
+    <string name="consumer_phone">Consumer Phone</string>
+    <string name="consumer_email">Consumer Email</string>
+    <string name="language_template">Merchant Information— Language Template(optional)</string>
+    <string name="merchant_nam_al">Merchant Name—Alternate Language</string>
+    <string name="merchant_city_al">Merchant City—Alternate Language</string>
+    <string name="scan">Scan</string>
+    <string name="setting">Setting</string>
+    <string name="emv_merchant">EMV QR Code(merchant)</string>
+    <string name="emv_consumer">EMV QR Code(consumer)</string>
+    <string name="nets_code">NETS Static QRCode</string>
+    <string name="unionpay_code">UnionPay QR Code</string>
+    <string name="set_language">Modify Language:</string>
+    <string name="simple_chinese">Simplified Chinese</string>
+    <string name="English">English</string>
+    <string name="adf_name">Application Definition File Name,Two-digit hexadecimal number</string>
+    <string name="application_pan">Application PAN(up to 19)</string>
+    <string name="expiration_date">Expiration Date(optional,YYMM)</string>
+    <string name="service_code">Service Code(optional,3 digits)</string>
+    <string name="discretionary_data">Discretionary Data(optional,digits)</string>
+    <string name="application_label">Application Label(optional)</string>
+    <string name="cardholder_name">Cardholder Name(optional)</string>
+    <string name="language_preference">Language Preference(optional)</string>
+    <string name="issuer_url">" Issuer URL(optional)"</string>
+    <string name="application_version">Application Version Number(optional)</string>
+    <string name="token_requestor">Token Requestor ID(optional)</string>
+    <string name="payment_account_reference">Payment Account Reference(optional)</string>
+    <string name="last_digits_pan">Last 4 Digits of PAN(optional)</string>
+    <string name="uen">Unique Entity Number of the organization that generates this QR</string>
+    <string name="version_number">Version Number</string>
+    <string name="expiry_date">Expiry Date（DDMMYY）</string>
+    <string name="nets_merchant_id">Merchant ID(up to 15)</string>
+    <string name="nets_merchant_name">Merchant Name</string>
+    <string name="nets_terminal_id">Terminal ID(up to 8)</string>
+    <string name="nets_transaction_amount">Transaction Amount(optional,up to 8)</string>
+    <string name="nets_transaction_timestamp">Transaction Timestamp(optional,ddMMyyyyHHmmss)</string>
+    <string name="nets_max_value">Max Value(optional,8 digits)</string>
+    <string name="nets_min_value">Min Value(optional,8 digits)</string>
+    <string name="transaction_reference_number">Transaction Reference Number(optional,up to 16,enter \'0\' for user input)</string>
+    <string name="nets_qrform">QR Form</string>
+    <string name="nets_iseditable">Transaction Amount Editable</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="sgqr_id">SGQR Identity Information</string>
+    <string name="emv_merchant_title">EMV Merchant Code</string>
+    <string name="notfull_notice">There are also required fields not filled in</string>
+    <string name="maxmin_notice">Maximum and minimum values must be filled or not filled at the same time</string>
+    <string name="emv_consumer_notice1">The expiry date, service code, and optional data must be filled in or not filled at the same time.</string>
+    <string name="emv_consumer_notice2">The ADF format is incorrect. The number of hexadecimal digits is limited: 5–16.</string>
+    <string name="emv_consumer_notice3">Token Requsetor ID must be 6 digits</string>
+    <string name="currency_code">"Currency "</string>
+    <string name="currency_code1">currency code</string>
+    <string name="merchant_name1">merchant name</string>
+</resources>

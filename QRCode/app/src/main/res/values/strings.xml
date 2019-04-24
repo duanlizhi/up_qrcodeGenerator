@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">QR Code</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_string">输入内容&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="merchant_id">商户码</string>
+    <string name="Polymerization_code">聚合码选项</string>
+    <string name="static_QR_Codes">静态码</string>
+    <string name="dynamic_QR_Codes">动态码</string>
+    <string name="transaction_amount">交易金额（选填，未填写则由消费者输入）</string>
+    <string name="merchant_name">商户名称（限制41位）</string>
+    <string name="merchant_city">商户城市（限制15位）</string>
+    <string name="postal_code">邮编（选填）</string>
+    <string name="value_convenience">固定费用</string>
+    <string name="percentage">百分比（%）</string>
+    <string name="additional_data">附加信息（选填）</string>
+    <string name="bill_number">账单号</string>
+    <string name="mobile_number">手机号</string>
+    <string name="store_label">商家标签</string>
+    <string name="loyalty_number">会员号</string>
+    <string name="reference_label">参考标签</string>
+    <string name="customer_label">消费者标签</string>
+    <string name="terminal_label">终端标签</string>
+    <string name="purpose_transaction">交易目的</string>
+    <string name="consumer_address">消费者地址</string>
+    <string name="consumer_phone">消费者手机号</string>
+    <string name="consumer_email">消费者电子邮箱</string>
+    <string name="language_template">商家信息-第二语言模板（选填）</string>
+    <string name="merchant_nam_al">商家名称-第二语言</string>
+    <string name="merchant_city_al">商家城市-第二语言</string>
+    <string name="scan">扫一扫</string>
+    <string name="setting">设置</string>
+    <string name="emv_merchant">EMV二维码（商户）</string>
+    <string name="emv_consumer">EMV二维码（持卡人）</string>
+    <string name="nets_code">NETS 静态二维码</string>
+    <string name="unionpay_code">银联二维码仿真</string>
+    <string name="set_language">修改语言：</string>
+    <string name="simple_chinese">简体中文</string>
+    <string name="English">英文</string>
+    <string name="adf_name">应用程序精确名称（ADF）格式：两位一组的十六进制数</string>
+    <string name="application_pan">持卡人账号（PAN） 格式：不超过19位数字</string>
+    <string name="expiration_date">有效日期（选填，格式：YYMM）</string>
+    <string name="service_code">服务码（选填，格式：3位数字）</string>
+    <string name="discretionary_data">可选数据（选填，格式：数字）</string>
+    <string name="application_label">应用程序标签（选填）</string>
+    <string name="cardholder_name">持卡人姓名（选填）</string>
+    <string name="language_preference">语言首选项（选填）</string>
+    <string name="issuer_url">发行者URL（选填）</string>
+    <string name="application_version">应用程序版本号（选填）</string>
+    <string name="token_requestor">Token请求者ID（选填）</string>
+    <string name="payment_account_reference">付款账户补充（选填）</string>
+    <string name="last_digits_pan">最后四位pan（选填）</string>
+    <string name="uen">组织唯一编号</string>
+    <string name="version_number">版本号</string>
+    <string name="expiry_date">过期时间（格式：DDMMYYYY）</string>
+    <string name="nets_merchant_id">商户ID（15位）</string>
+    <string name="nets_merchant_name">商户名称</string>
+    <string name="nets_terminal_id">终端ID（8位）</string>
+    <string name="nets_transaction_amount">交易金额（选填,限制8位，例：1234=12.34）</string>
+    <string name="nets_transaction_timestamp">交易时间(选填，24小时制 格式：ddMMyyyyHHmmss)</string>
+    <string name="nets_max_value">最大交易金额(选填，8位，格式同上)</string>
+    <string name="nets_min_value">最小交易金额（选填，8位，格式同上）</string>
+    <string name="transaction_reference_number">交易ID（选填，最高16位，若输入‘0’代表由用户输入）</string>
+    <string name="nets_qrform">二维码组成</string>
+    <string name="nets_iseditable">交易金额是否可修改</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="sgqr_id">二维码ID</string>
+    <string name="emv_merchant_title">EMV商户码</string>
+    <string name="notfull_notice">还有必填项未填</string>
+    <string name="maxmin_notice">最大值和最小值必须同时填或不填</string>
+    <string name="emv_consumer_notice1">截止日期、服务码、可选数据三项必须 都填 或 都不填</string>
+    <string name="emv_consumer_notice2">ADF格式有误，十六进制数个数限制：5-16</string>
+    <string name="emv_consumer_notice3">Token Requsetor ID必须为6位</string>
+    <string name="currency_code">交易币种</string>
+    <string name="currency_code1">交易币种代码</string>
+    <string name="merchant_name1">商户名称</string>
+</resources>
